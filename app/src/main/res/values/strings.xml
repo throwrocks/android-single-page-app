@@ -16,8 +16,14 @@
         We have an agreement with the Texas Department of Agriculture (TDA) to operate the Child Nutrition
         Programs as outlined in federal and state regulations. Our current year budget is $117 million.
     </string>
-    <string name="org_parent_deccription">The Dallas Independent School District is a school district 
+    <string name="org_parent_description">The Dallas Independent School District is a school district
     based in Dallas, Texas. Dallas ISD, which operates schools in much of Dallas County, is the second 
     largest school district in Texas and the twelfth largest in the United States.
     </string>
+    <!--Content Descriptions-->
+    <string name="content_description_disd_logo">The Dallas Independent School District logo</string>
+    <string name="content_description_maria_luna">The Food and Child Nutrition Services building,
+    also known as Maria Luna.</string>
+    <string name="content_description_icon_location">A marker icon shown next to the address</string>
+    <string name="content_description_icon_phone">A telephone shown next to the phone number</string>
 </resources>
